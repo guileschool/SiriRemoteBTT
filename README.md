@@ -26,6 +26,8 @@ The script file in the following path can be used to directly modify after insta
 
 [YOUTUBE SiriRemoteBTT install guide](https://youtu.be/o0SIbxduN_U)
 
+[YOUTUBE SiriRemoteBTT users guide](https://youtu.be/GlRZpzqCjQg)
+
 ##Need Help? Found a bug?
 
 please refer to [the wiki](https://github.com/guileschool/SiriRemoteBTT/wiki). If you encounter any trouble or have any questions, post them to the [issues section](https://github.com/guileschool/SiriRemoteBTT/issues) and we'll help get you started.
