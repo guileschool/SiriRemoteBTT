@@ -4,7 +4,7 @@ Use Your Siri Remote with Your Mac
 **SiriRemoteBTT** is [BTT(BetterTouchTool)](https://www.boastr.net/)'s helper software
 
 <p align="center">
-	<img src="http://www.guileschool.com/image2/FE661BF8-774E-414C-AA6D-385244D9AE4D.jpg" width=650 loop=infinite>
+	<img src="http://d.pr/i/PLAK/58ENyGZH+" width=650 loop=infinite>
 </p>
 
 SiriRemoteBTT with support for the new Siri Remote, now availabe
